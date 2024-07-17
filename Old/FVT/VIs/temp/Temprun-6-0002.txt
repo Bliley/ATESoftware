@@ -1,0 +1,3 @@
+Unit_Number,Serial_Number,Date_Code,Work_Order,Test_System,Position,Fixture_SN,Frequency,Temperature,Time_stamp,Run_IDnv45bill,0002,1823,9999,BTI-ATE-27.bliley.local,,Freq 9999996.103200
+,22.97,Temp 22.97	8/14/2018	7:51:22 AM
+,6
