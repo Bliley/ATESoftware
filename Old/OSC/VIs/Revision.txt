@@ -1,0 +1,3 @@
+This revision updates the oscilloscope commands with a holdoff setting for the 1197.  This will enable the user to set the holdoff for whatever value is necessary for higher frequency units.  
+
+EC: 10-10-06
