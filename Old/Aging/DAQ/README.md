@@ -7,4 +7,7 @@
 \\bti-dc1\Autoage\func1 through \\bti-dc1\Autoage\func8
 ### Runfile Directory
 \\bti-dc1\Autoage\runs
-
+### Executables File Location 
+\\bti-dc1\LABVIEW\ProgramArchive\J-I_Sandbox\AutoAge8.x\builds\Daq v8x
+### VI File Location 
+\\bti-dc1\LABVIEW\ProgramArchive\J-I_Sandbox\AutoAge8.x\Daq v8.x
