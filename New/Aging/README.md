@@ -1,2 +1,2 @@
 ## Program File Location 
-Located on the Desktop of BTI-PC44
+Located on the Desktop of BTI-LT23
