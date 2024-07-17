@@ -1,5 +1,7 @@
 # ATESoftware
-## Old
-Contains the old testing software used to run the old ATE systems at Bliley 
+## Applecore
+Contains the new testing software used to run the Appleracks v2
 ## New
-Contains the new testing software used to run the old ATE systems and Applecore v2 at Bliley 
+Contains the new testing software used to run the old ATE systems
+## Old
+Contains the old testing software used to run the old ATE systems at Bliley  
